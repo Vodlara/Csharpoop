@@ -1,0 +1,18 @@
+H:\test\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe.config
+H:\test\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csprojResolveAssemblyReference.cache
+H:\test\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Form1.resources
+H:\test\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Properties.Resources.resources
+H:\test\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csproj.GenerateResource.Cache
+H:\test\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe
+H:\test\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.pdb
+H:\test\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.exe
+H:\test\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.pdb
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.pdb
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.pdb
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Form1.resources
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Properties.Resources.resources
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csproj.GenerateResource.Cache
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csprojResolveAssemblyReference.cache
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe.config
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe
+E:\cources\Programing\C# general\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.exe
