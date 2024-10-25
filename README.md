@@ -26,12 +26,14 @@ Build a strong understanding of C# programming.
 Write clean, efficient, and maintainable code.
 Develop problem-solving skills and logical thinking.
 Get ready for real-world projects and job interviews.
-🚀 How to Get Started
+
+How to Get Started
 Clone this repository:
-bash
-نسخ الكود
-git clone https://github.com/username/CSharp_Basics.git
-Open the solution file in Visual Studio.
-Explore the topics one by one, run the code, and learn interactively!
+1- copy Url of repository
+
+2- Open the solution file in Visual Studio.
+3- Explore the topics one by one, run the code, and learn interactively!
+
 👨‍🏫 About the Author
 This project was created by Eng. Hesham Bakr, a passionate software engineer and educator. With years of experience in programming and mentoring thousands of engineers globally, Hesham is dedicated to helping others excel in their programming careers.
+
